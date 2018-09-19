@@ -2,30 +2,35 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
 	<Catalog uuid="037c76d2-3587-495c-b1c3-a4ad310fd3eb">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Справочник1" category="Object">
+			<xr:GeneratedType name="CatalogObject.Товары" category="Object">
 				<xr:TypeId>1d999c85-3c0c-44aa-bd97-2bb9f1f11e1d</xr:TypeId>
 				<xr:ValueId>38b25fd5-beac-41e9-89d1-60be06aa3f2c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Справочник1" category="Ref">
+			<xr:GeneratedType name="CatalogRef.Товары" category="Ref">
 				<xr:TypeId>9d2d8610-695b-43ab-aca6-893505f2624f</xr:TypeId>
 				<xr:ValueId>b7fb745b-bbb4-4e37-b1ac-effbb9bcc3b5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Справочник1" category="Selection">
+			<xr:GeneratedType name="CatalogSelection.Товары" category="Selection">
 				<xr:TypeId>a86b0463-be7d-42ce-bcb5-e405e7adaa95</xr:TypeId>
 				<xr:ValueId>6cee027a-e821-43bb-8261-43af657d7916</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Справочник1" category="List">
+			<xr:GeneratedType name="CatalogList.Товары" category="List">
 				<xr:TypeId>48ad9cd1-69de-4602-9bc1-17895137ce24</xr:TypeId>
 				<xr:ValueId>bf658e9c-74a1-4ba5-a146-c316cb25317d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Справочник1" category="Manager">
+			<xr:GeneratedType name="CatalogManager.Товары" category="Manager">
 				<xr:TypeId>8d8a9efb-184a-4964-b112-5a08704f45e8</xr:TypeId>
 				<xr:ValueId>52b92148-bcab-431f-b71e-63d4cec469c9</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Справочник1</Name>
-			<Synonym/>
+			<Name>Товары</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Товары</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 			<Hierarchical>false</Hierarchical>
 			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
@@ -49,8 +54,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.Товары.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Товары.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>

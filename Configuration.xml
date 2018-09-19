@@ -121,7 +121,7 @@
 			<CommonModule>ОбщийМодуль1</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<XDTOPackage>ПакетXDTO2</XDTOPackage>
-			<Catalog>Справочник1</Catalog>
+			<Catalog>Товары</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
