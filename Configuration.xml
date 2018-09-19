@@ -118,10 +118,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Подсистема1</Subsystem>
 			<CommonModule>ОбщийМодуль1</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<XDTOPackage>ПакетXDTO2</XDTOPackage>
-			<Catalog>Справочник1</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Склады</Catalog>
+			<Document>ПриходнаяНакладная</Document>
+			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
