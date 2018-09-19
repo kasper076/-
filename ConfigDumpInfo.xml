@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="037c76d2-3587-495c-b1c3-a4ad310fd3eb" configVersion="bf4d5de9fe68024ca6572aed68183a6400000000"/>
+		<Metadata name="Catalog.Справочник1.ManagerModule" id="037c76d2-3587-495c-b1c3-a4ad310fd3eb.3" configVersion="592de54d4d3fdf40a1e8a31290848b6000000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="0f41dc9f-15bd-477d-9574-dbd686783ae5" configVersion="1e7180703e2379449763def6fdf648f300000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="0f41dc9f-15bd-477d-9574-dbd686783ae5.0" configVersion="fe3cd935480a0d40948161ce38409c4c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="72f11825-894a-47c1-868c-1849e2f029a8" configVersion="cdff388836942443bb93c7cff0d9d1de00000000"/>
+		<Metadata name="Language.Русский" id="758b00ce-71b7-4378-b676-12a70f59a8c3" configVersion="9bc31204f0abe947ad5d9903f54dbae200000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO1" id="c4f6c166-95a6-43ea-b996-651b7654b6d9" configVersion="eacd67a357ee5546943ef1a026a7fb5700000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO1.Package" id="c4f6c166-95a6-43ea-b996-651b7654b6d9.0" configVersion="93b27d84a763494882f76ce17f6eea4400000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO2" id="0ed39e35-10e9-4c53-976d-439521bef4b8" configVersion="665388b45b45454e9c80ec0ee91f3d9000000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO2.Package" id="0ed39e35-10e9-4c53-976d-439521bef4b8.0" configVersion="4f4620bd0d9bf743be47c4f1af2e076300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

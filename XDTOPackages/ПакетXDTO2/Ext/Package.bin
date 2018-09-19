@@ -1,0 +1,6 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://www.sample-package.org_" elementFormQualified="true" attributeFormQualified="false">
+	<objectType name="ТипОбъекта1">
+		<property name="Атрибут" type="xs:string" lowerBound="1" form="Attribute"/>
+		<property name="__content" type="xs:int" form="Text"/>
+	</objectType>
+</package>
